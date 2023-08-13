@@ -1,6 +1,4 @@
 pip==23.2.1
+streamlit==1.25.0
 deta==1.2.0
-streamlit==1.24.0
-plotly==5.16.0
-streamlit_option_menu==1.0.9
 
